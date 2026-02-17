@@ -5,38 +5,38 @@ Repositório com exercícios e projetos desenvolvidos durante o curso Fundamento
 
 🎓 Sobre o curso
 
-Instituição: SENAI – Escola Gaspar Ricardo Junior
+- Instituição: SENAI – Escola Gaspar Ricardo Junior
 
-Carga horária: 30 horas
+- Carga horária: 30 horas
 
-Período: 01/02/2025 a 22/02/2025
+- Período: 01/02/2025 a 22/02/2025
 
-Status: Concluído com aproveitamento
+- Status: Concluído com aproveitamento
 
 🚀 Conteúdos abordados
 
-Diferença entre linguagens compiladas e interpretadas
+- Diferença entre linguagens compiladas e interpretadas
 
-Preparação de ambiente Python
+- Preparação de ambiente Python
 
-Variáveis e tipos de dados
+- Variáveis e tipos de dados
 
-Funções padrão da linguagem
+- Funções padrão da linguagem
 
-Estruturas condicionais
+- Estruturas condicionais
 
-Estruturas de repetição
+- Estruturas de repetição
 
-Expressões lógicas
+- Expressões lógicas
 
-Criação de funções (modularização)
+- Criação de funções (modularização)
 
-Boas práticas e organização de código
+- Boas práticas e organização de código
 
 🛠 Tecnologias utilizadas
 
-Python 3
-Pycharm 
+- Python 3
+- Pycharm 
 
 🎯 Objetivo deste repositório
 
